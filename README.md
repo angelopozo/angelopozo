@@ -1,18 +1,20 @@
-﻿<h1 align="center">¡Hola, soy Angelo Pozo! 👋</h1>
-<h3 align="center">Desarrollador de aplicaciones multiplataforma en formación</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=angelopozo&label=Visitas&color=0e75b6&style=flat" alt="Contador de visitas" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding animation" width="400" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h1>Hola, soy Angelo Pozo 👋</h1>
+      <h3>Ingeniero de Software Multiplataforma en Formación</h3>
+      <p>
+        <img src="https://komarev.com/ghpvc/?username=angelopozo&label=Visitas&color=0e75b6&style=flat" alt="Contador de visitas" />
+      </p>
+      <p>Soy Angelo Pozo, estudiante del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) con un enfoque riguroso en ingeniería de software. Trabajo proyectos que buscan equilibrio entre rendimiento, escalabilidad y diseño centrado en las personas. Mi objetivo es aportar soluciones confiables y mantenibles que mejoren la experiencia de usuario en cada plataforma.</p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Animación de desarrollo" width="380" />
+    </td>
+  </tr>
+</table>
 
 ---
-
-Soy estudiante del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) y disfruto transformando ideas en productos digitales coherentes. Me apasiona diseñar y construir soluciones multiplataforma que unifican rendimiento, escalabilidad y usabilidad. Mi misión es crear aplicaciones eficientes que ofrezcan experiencias de usuario cuidadas e inclusivas, aportando valor real a las personas y a los equipos con los que colaboro.
-
 ## 🛠️ Tecnologías y Herramientas
 
 <p align="center">
@@ -39,10 +41,11 @@ Soy estudiante del Ciclo Formativo de Grado Superior en Desarrollo de Aplicacion
 
 ### 📚 Actualmente aprendiendo
 
-- Arquitecturas avanzadas para Flutter (Clean Architecture, BLoC/Provider, pruebas automatizadas).
-- Patrones de diseño orientados a objetos y principios SOLID aplicados a soluciones multiplataforma.
-- Mejores prácticas con JavaScript moderno (ES6+), TypeScript y herramientas de construcción.
-- Integración continua, automatización de pipelines y observabilidad para proyectos móviles y web.
+- Diseñando experiencias Flutter y Dart con arquitecturas limpias, componentes reutilizables y gestión de estado profesional (BLoC, Riverpod, Provider).
+- Ejecutando análisis de rendimiento, pruebas automatizadas y despliegues continuos para aplicaciones Flutter listas para producción.
+- Estructurando soluciones Java con modelos de dominio sólidos, patrones enterprise y pipelines de calidad basados en JUnit y Gradle/Maven.
+- Desarrollando servicios y automatizaciones en Python para ingesta de datos, scripting backend y tareas DevOps con énfasis en confiabilidad.
+- Consolidando pipelines CI/CD que unifican proyectos Flutter, Java y Python, incorporando observabilidad y métricas operativas desde el inicio.
 
 ## 📈 Estadísticas
 
@@ -59,14 +62,6 @@ Soy estudiante del Ciclo Formativo de Grado Superior en Desarrollo de Aplicacion
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=angelopozo&bg_color=ffffff00&color=0e75b6&line=58a6ff&point=1f6feb&area=true&hide_border=true" alt="Gráfico de actividad de Angelo Pozo" />
 </p>
 
-<details>
-  <summary>📊 Más métricas y automatizaciones</summary>
-  <ul>
-    <li>Integra tus estadísticas de tiempo de programación con <a href="https://wakatime.com/">WakaTime</a> añadiendo el badge adecuado cuando generes tu API key.</li>
-    <li>Publica tus últimas entradas de blog o actividad en StackOverflow con workflows como <a href="https://github.com/gautamkrishnar/blog-post-workflow">Blog Post Workflow</a>.</li>
-    <li>Agrega contadores de descargas desde npm o PyPI si publicas paquetes, aprovechando los badges de <a href="https://shields.io/">Shields.io</a>.</li>
-  </ul>
-</details>
 
 ## 🚀 Proyectos Destacados
 
