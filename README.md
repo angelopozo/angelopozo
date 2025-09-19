@@ -1,4 +1,4 @@
-﻿<h1 align="center">¡Hola, soy Ángel Pozo! 👋</h1>
+﻿<h1 align="center">¡Hola, soy Angelo Pozo! 👋</h1>
 <h3 align="center">Desarrollador de aplicaciones multiplataforma en formación</h3>
 
 <p align="center">
@@ -47,16 +47,16 @@ Soy estudiante del Ciclo Formativo de Grado Superior en Desarrollo de Aplicacion
 ## 📈 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angelopozo&show_icons=true&hide_title=true&theme=transparent&hide_border=true&locale=es" alt="Estadísticas de GitHub de Ángel Pozo" />
+  <img src="https://github-readme-stats.vercel.app/api?username=angelopozo&show_icons=true&hide_title=true&theme=transparent&hide_border=true&locale=es" alt="Estadísticas de GitHub de Angelo Pozo" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=angelopozo&locale=es&mode=weekly&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Racha de commits de Ángel Pozo" />
+  <img src="https://streak-stats.demolab.com?user=angelopozo&locale=es&mode=weekly&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Racha de commits de Angelo Pozo" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelopozo&layout=compact&theme=transparent&hide_border=true&locale=es" alt="Lenguajes más usados por Ángel Pozo" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelopozo&layout=compact&theme=transparent&hide_border=true&locale=es" alt="Lenguajes más usados por Angelo Pozo" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=angelopozo&bg_color=ffffff00&color=0e75b6&line=58a6ff&point=1f6feb&area=true&hide_border=true" alt="Gráfico de actividad de Ángel Pozo" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=angelopozo&bg_color=ffffff00&color=0e75b6&line=58a6ff&point=1f6feb&area=true&hide_border=true" alt="Gráfico de actividad de Angelo Pozo" />
 </p>
 
 <details>
@@ -96,4 +96,5 @@ Soy estudiante del Ciclo Formativo de Grado Superior en Desarrollo de Aplicacion
 ## 🤝 Conecta conmigo
 
 Estoy abierto a colaborar en proyectos multiplataforma, participar en iniciativas open source y explorar oportunidades laborales. ¡Escríbeme y creemos algo increíble juntos! 🚀
+
 
