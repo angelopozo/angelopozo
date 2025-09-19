@@ -1,19 +1,20 @@
-<h1>Hola, soy Angelo Pozo 👋</h1>
-
-<p>
-  <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Animación de desarrollo" width="340" />
-</p>
-
-<h3>Ingeniero de Software Multiplataforma en formación</h3>
-<p align="justify">Soy Angelo Pozo, estudiante del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) con un enfoque riguroso en ingeniería de software. Trabajo proyectos que buscan equilibrio entre rendimiento, escalabilidad y diseño centrado en las personas. Mi objetivo es aportar soluciones confiables y mantenibles que mejoren la experiencia de usuario en cada plataforma.</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=angelopozo&label=Visitas&color=0e75b6&style=flat" alt="Contador de visitas" />
-</p>
+<div style="display: flex; align-items: center; gap: 24px; flex-wrap: wrap-reverse;">
+  <div style="flex: 1 1 260px;">
+    <h1 style="margin-bottom: 0.4rem;">Hello, I'm Angelo Pozo &#128075;</h1>
+    <h3 style="margin-top: 0;">Multiplatform Software Engineer in Training</h3>
+    <p align="justify">I am Angelo Pozo, a Higher National Diploma (HND) student in Multiplatform Application Development with a rigorous approach to software engineering. I take on projects that balance performance, scalability, and human-centered design. My goal is to deliver reliable, maintainable solutions that enhance user experience on every platform.</p>
+    <p>
+      <img src="https://komarev.com/ghpvc/?username=angelopozo&label=Profile+views&color=0e75b6&style=flat" alt="Profile view counter" />
+    </p>
+  </div>
+  <div style="flex: 0 1 320px; min-width: 260px; text-align: center;">
+    <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Programming animation" width="310" style="border-radius: 12px;" />
+  </div>
+</div>
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## Technologies & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
@@ -37,67 +38,66 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-### 📚 Actualmente aprendiendo
+### Currently Learning
 
 <ul>
-  <li><p align="justify">Diseñando experiencias Flutter y Dart con arquitecturas limpias, componentes reutilizables y modelos de estado profesionales (BLoC, Riverpod, Provider) orientados a productos escalables y mantenibles.</p></li>
-  <li><p align="justify">Orquestando análisis de rendimiento, cobertura automatizada y despliegues continuos para aplicaciones Flutter listas para producción tanto en dispositivos móviles como en entornos web.</p></li>
-  <li><p align="justify">Estructurando soluciones Java con dominios ricos, patrones enterprise y pipelines de calidad basados en JUnit, Gradle y Maven para proyectos académicos y corporativos.</p></li>
-  <li><p align="justify">Desarrollando servicios y automatizaciones en Python que soportan ingesta de datos, scripting backend y tareas DevOps con foco en resiliencia y observabilidad.</p></li>
-  <li><p align="justify">Consolidando pipelines CI/CD que integran proyectos Flutter, Java y Python con métricas operativas, alertas tempranas y controles de calidad desde la fase de diseño.</p></li>
+  <li><p align="justify">Designing Flutter and Dart experiences with clean architectures, reusable components, and professional state management models (BLoC, Riverpod, Provider) aimed at scalable, maintainable products.</p></li>
+  <li><p align="justify">Running performance analysis, automation suites, and continuous delivery workflows to ship production-ready Flutter apps for mobile and web.</p></li>
+  <li><p align="justify">Structuring Java solutions with rich domain models, enterprise patterns, and quality pipelines powered by JUnit, Gradle, and Maven.</p></li>
+  <li><p align="justify">Building Python services and automations for data ingestion, backend scripting, and DevOps tasks with a focus on resilience and observability.</p></li>
+  <li><p align="justify">Consolidating CI/CD pipelines that integrate Flutter, Java, and Python projects with operational metrics, early alerts, and quality gates from day one.</p></li>
 </ul>
 
-## 📈 Estadísticas
+## GitHub Metrics
+
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=angelopozo&show_icons=true&hide_title=true&theme=transparent&hide_border=true&locale=en" alt="Angelo Pozo GitHub statistics" style="max-width: 48%; min-width: 280px;" />
+  <img src="https://streak-stats.demolab.com?user=angelopozo&locale=en&mode=weekly&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Angelo Pozo commit streak" style="max-width: 48%; min-width: 280px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelopozo&layout=compact&theme=transparent&hide_border=true&locale=en" alt="Angelo Pozo top languages" style="max-width: 48%; min-width: 280px;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=angelopozo&theme=flat&no-frame=true&margin-w=8" alt="Angelo Pozo GitHub trophies" style="max-width: 48%; min-width: 280px;" />
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angelopozo&show_icons=true&hide_title=true&theme=transparent&hide_border=true&locale=es" alt="Estadísticas de GitHub de Angelo Pozo" />
-  <img src="https://streak-stats.demolab.com?user=angelopozo&locale=es&mode=weekly&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Racha de commits de Angelo Pozo" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelopozo&layout=compact&theme=transparent&hide_border=true&locale=es" alt="Lenguajes más usados por Angelo Pozo" />
-  <img src="https://github-profile-trophy.vercel.app/?username=angelopozo&theme=flat&no-frame=true&margin-w=8" alt="Trofeos de GitHub de Angelo Pozo" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=angelopozo&bg_color=ffffff00&color=0e75b6&line=58a6ff&point=1f6feb&area=true&hide_border=true" alt="Gráfico de actividad de Angelo Pozo" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=angelopozo&bg_color=ffffff00&color=0e75b6&line=58a6ff&point=1f6feb&area=true&hide_border=true" alt="Angelo Pozo contribution activity graph" />
 </p>
 
-## 🚀 Proyectos Destacados
+## Featured Projects
 
 <ul>
   <li>
-    <p align="justify"><a href="https://github.com/angelopozo/MP0485_CarRental"><strong>MP0485_CarRental</strong></a> · <code>Java</code></p>
-    <p align="justify">Sistema académico que refuerza principios de orientación a objetos, gestión de flotas y reservas, construido con NetBeans y diseñado para asegurar mantenibilidad y claridad arquitectónica.</p>
+    <p align="justify"><a href="https://github.com/angelopozo/MP0485_CarRental"><strong>MP0485_CarRental</strong></a> | <code>Java</code></p>
+    <p align="justify">Academic desktop system that reinforces object-oriented principles, fleet and reservation management, and a modular NetBeans architecture designed for clarity and maintainability.</p>
   </li>
   <li>
-    <p align="justify"><a href="https://github.com/angelopozo/MP488_EventsManager"><strong>MP488_EventsManager</strong></a> · <code>HTML</code> · <code>PHP</code> · <code>CSS</code></p>
-    <p align="justify">Plataforma web para administrar eventos y participantes con enfoque en accesibilidad, flujos de validación y separación de capas entre presentación y lógica de servidor.</p>
+    <p align="justify"><a href="https://github.com/angelopozo/MP488_EventsManager"><strong>MP488_EventsManager</strong></a> | <code>HTML</code> | <code>PHP</code> | <code>CSS</code></p>
+    <p align="justify">Web platform for managing events and attendees with a focus on accessibility, validation flows, and a well-defined separation between presentation and server-side logic.</p>
   </li>
   <li>
-    <p align="justify"><a href="https://github.com/angelopozo/git-java-football"><strong>git-java-football</strong></a> · <code>Java</code></p>
-    <p align="justify">Aplicación de consola orientada a estadísticas deportivas que profundiza en colecciones, lectura de ficheros y pruebas unitarias para garantizar exactitud de resultados.</p>
+    <p align="justify"><a href="https://github.com/angelopozo/git-java-football"><strong>git-java-football</strong></a> | <code>Java</code></p>
+    <p align="justify">Console application for sports statistics that deepens knowledge of collections, file handling, and unit testing to guarantee accurate results.</p>
   </li>
 </ul>
 
 <blockquote>
-  <p align="justify">🌟 Explora más repositorios en <a href="https://github.com/angelopozo?tab=repositories">github.com/angelopozo?tab=repositories</a></p>
+  <p align="justify">&#127775; Discover more repositories at <a href="https://github.com/angelopozo?tab=repositories">github.com/angelopozo?tab=repositories</a></p>
 </blockquote>
 
-## 💼 Experiencia y logros
+## Experience & Milestones
 
 <ul>
-  <li><p align="justify">Cursando el Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM).</p></li>
-  <li><p align="justify">Construyendo proyectos móviles y web que equilibran eficiencia, mantenibilidad y experiencia de usuario.</p></li>
-  <li><p align="justify">Explorando soluciones de automatización con GitHub Actions, integración continua y análisis estático.</p></li>
-  <li><p align="justify">Participante activo en retos y proyectos colaborativos que potencian el aprendizaje constante.</p></li>
+  <li><p align="justify">Currently pursuing the Higher National Diploma in Multiplatform Application Development (DAM).</p></li>
+  <li><p align="justify">Delivering mobile and web projects that balance efficiency, maintainability, and user experience.</p></li>
+  <li><p align="justify">Exploring automation solutions with GitHub Actions, continuous integration, and static analysis.</p></li>
+  <li><p align="justify">Active participant in collaborative challenges that promote continuous learning.</p></li>
 </ul>
 
-## 📫 Contacto
+## Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/angelo-giovanni-pozo-p%C3%A9rez-882765306/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:angeloo.pozo@gmail.com"><img src="https://img.shields.io/badge/Correo-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" /></a>
+  <a href="mailto:angeloo.pozo@gmail.com"><img src="https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-## 🤝 Conecta conmigo
+## Connect with Me
 
-<p align="justify">Estoy abierto a colaborar en proyectos multiplataforma, participar en iniciativas open source y explorar oportunidades laborales. Escríbeme y creemos algo extraordinario juntos. 🚀</p>
+<p align="justify">I am open to collaborating on multiplatform projects, contributing to open-source initiatives, and exploring new professional opportunities. Reach out and let's build something outstanding together. &#128640;</p>
