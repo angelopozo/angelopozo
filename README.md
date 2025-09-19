@@ -5,7 +5,7 @@
 </div>
 <div style="display: flex; align-items: center; gap: 28px; flex-wrap: wrap; margin-top: 16px;">
   <div style="flex: 1 1 360px;">
-    <p align="justify">I am Angelo Pozo, a Higher National Diploma (HND) student in Multiplatform Application Development with a rigorous approach to software engineering. I take on projects that balance performance, scalability, and human-centered design. My goal is to deliver reliable, maintainable solutions that enhance user experience on every platform.</p>
+    <p align="justify">I am Angelo Pozo, an Advanced Vocational Training student in Multiplatform Application Development with a rigorous approach to software engineering. I take on projects that balance performance, scalability, and human-centered design. My goal is to deliver reliable, maintainable solutions that enhance user experience on every platform.</p>
   </div>
 </div>
 
