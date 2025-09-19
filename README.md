@@ -1,16 +1,12 @@
-<div style="display: flex; align-items: center; gap: 24px; flex-wrap: wrap-reverse;">
-  <div style="flex: 1 1 260px;">
-    <h1 style="margin-bottom: 0.4rem;">Hello, I'm Angelo Pozo &#128075;</h1>
-    <h3 style="margin-top: 0;">Multiplatform Software Engineer in Training</h3>
-    <p align="justify">I am Angelo Pozo, a Higher National Diploma (HND) student in Multiplatform Application Development with a rigorous approach to software engineering. I take on projects that balance performance, scalability, and human-centered design. My goal is to deliver reliable, maintainable solutions that enhance user experience on every platform.</p>
-    <p>
-      <img src="https://komarev.com/ghpvc/?username=angelopozo&label=Profile+views&color=0e75b6&style=flat" alt="Profile view counter" />
-    </p>
-  </div>
-  <div style="flex: 0 1 320px; min-width: 260px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Programming animation" width="310" style="border-radius: 12px;" />
-  </div>
-</div>
+<h1>Hello, I'm Angelo Pozo 👋</h1>
+<h3>Multiplatform Software Engineer in Training</h3>
+<p align="justify">I am Angelo Pozo, a Higher National Diploma (HND) student in Multiplatform Application Development with a rigorous approach to software engineering. I take on projects that balance performance, scalability, and human-centered design. My goal is to deliver reliable, maintainable solutions that enhance user experience on every platform.</p>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=angelopozo&label=Profile+views&color=0e75b6&style=flat" alt="Profile view counter" />
+</p>
+<p align="center" style="margin-top: 12px;">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Programming animation" width="360" style="border-radius: 12px;" />
+</p>
 
 ---
 
