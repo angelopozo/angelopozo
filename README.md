@@ -49,7 +49,6 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=angelopozo&show_icons=true&hide_title=true&theme=transparent&hide_border=true&locale=en" alt="Angelo Pozo GitHub statistics" style="max-width: 48%; min-width: 280px;" />
-  <img src="https://streak-stats.demolab.com?user=angelopozo&locale=en&mode=weekly&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Angelo Pozo commit streak" style="max-width: 48%; min-width: 280px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelopozo&layout=compact&theme=transparent&hide_border=true&locale=en" alt="Angelo Pozo top languages" style="max-width: 48%; min-width: 280px;" />
   <img src="https://github-profile-trophy.vercel.app/?username=angelopozo&theme=flat&no-frame=true&margin-w=8" alt="Angelo Pozo GitHub trophies" style="max-width: 48%; min-width: 280px;" />
 </div>
