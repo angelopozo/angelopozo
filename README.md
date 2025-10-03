@@ -81,7 +81,7 @@
 ## Experience & Milestones
 
 <ul>
-  <li><p align="justify">Currently pursuing the Higher National Diploma in Multiplatform Application Development (DAM).</p></li>
+  <li><p align="justify">Currently pursuing the Advanced Vocational Training in Multiplatform Application Development (DAM).</p></li>
   <li><p align="justify">Delivering mobile and web projects that balance efficiency, maintainability, and user experience.</p></li>
   <li><p align="justify">Exploring automation solutions with GitHub Actions, continuous integration, and static analysis.</p></li>
   <li><p align="justify">Active participant in collaborative challenges that promote continuous learning.</p></li>
